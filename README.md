@@ -60,22 +60,7 @@ You'll need to have [Node.js](https://nodejs.org/en/download/) and [npm](https:/
 * **Node.js:** Ensure you have a stable version (e.g., v16.x or v18.x recommended). Older versions might require setting `NODE_OPTIONS` (see below).
 * **npm:** Comes bundled with Node.js.
 
-### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Sneha4580/Pathfinding-Visualizer_.git](https://github.com/Sneha4580/Pathfinding-Visualizer_.git)
-    ```
-    (Replace `Sneha4580` with your actual GitHub username if different, and `Pathfinding-Visualizer_` with your repo name if it's different.)
-2.  **Navigate into the project directory:**
-    ```bash
-    cd Pathfinding-Visualizer_
-    cd Pathfinding-Visualizer-Tutorial-master
-    ```
-3.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
 
 ### Running the Application
 
