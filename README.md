@@ -26,17 +26,19 @@ Witness the visualizer in action, showcasing pathfinding and algorithm selection
 
 A clear path found using Dijkstra's algorithm, showing visited nodes and the shortest path.
 
-![Dijkstra's Algorithm Visualization](<img width="1410" alt="Screenshot 2025-06-10 at 10 55 13 AM" src="https://github.com/user-attachments/assets/cf6d9936-6943-43ad-a19c-be248b94af91" />
+<img width="1410" alt="Screenshot 2025-06-10 at 10 55 13 AM" src="https://github.com/user-attachments/assets/cf6d9936-6943-43ad-a19c-be248b94af91" />
 
-)
 
-![BFS Visualization](<img width="1373" alt="Screenshot 2025-06-10 at 10 55 57 AM" src="https://github.com/user-attachments/assets/e75a52d5-8fd6-47a5-9c0e-43da3029dc3e" />
+### BFS Algorithm in Action
 
-)
+<img width="1373" alt="Screenshot 2025-06-10 at 10 55 57 AM" src="https://github.com/user-attachments/assets/e75a52d5-8fd6-47a5-9c0e-43da3029dc3e" />
 
-![DFS Visualization](<img width="1371" alt="Screenshot 2025-06-10 at 10 56 47 AM" src="https://github.com/user-attachments/assets/375f6a6b-fb91-41a4-a076-3c73b9ab5143" />
 
-)
+### DFS Algorithm in Action
+
+<img width="1371" alt="Screenshot 2025-06-10 at 10 56 47 AM" src="https://github.com/user-attachments/assets/375f6a6b-fb91-41a4-a076-3c73b9ab5143" />
+
+
 
 
 ### Algorithm Selection Interface
